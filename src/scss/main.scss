@@ -1,0 +1,14 @@
+@import "config";
+@import "ldsroller";
+@import "container";
+@import "responsive";
+main {
+  background: $primary-color;
+}
+.block {
+  height: 50vh;
+
+  &.darklight {
+    background: $secondary-color;
+  }
+}
