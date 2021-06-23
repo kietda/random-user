@@ -6,13 +6,13 @@ to get data and show it on the page
 
 # Sass config:
 
-`code`
+```
 {
 "format": "expanded",
 "extensionName": ".css",
 "savePath": "~/../"
 }
-`code`
+```
 
 # Demo:
 
